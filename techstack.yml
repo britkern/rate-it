@@ -1,7 +1,8 @@
 repo_name: britkern/rate-it
 report_id: 1cbe09db7506b6be703c19a18b3017c7
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-30T18:22:32+00:00'
+timestamp: '2024-01-05T08:30:17+00:00'
 requested_by: askopin
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/britkern/rate-it
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,4 +27,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/britkern/rate-it
   detection_source: Repo Metadata
